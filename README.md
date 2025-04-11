@@ -24,3 +24,8 @@ On the frontend side, there is a chatbot header, a footer and the chatbot box wh
 
 Also, there is an Azure pipeline yaml file that can be used to deploy the Flask application to an App Service in cloud, if we have an active subscription in place.
 
+DEMO:
+
+![image](https://github.com/user-attachments/assets/dc0f1ce3-ec8d-46d6-b0a5-56b3428263dd)
+
+
